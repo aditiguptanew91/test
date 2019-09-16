@@ -54,7 +54,6 @@ Did you know we also offer more financial guidance than pertains to just tradeli
 										<li><p>No shady undisclosed agreements;</p></li>
 										<li><p>No accessgranted authorized user toany personal details belonging to primary user.</p></li>
 									</ul>
-
 								<p>Well? No more procrastinating! You dream it, we design it!Speak to one of our credit designers!</p>
 								<!--<p><a href="#" class="btn btn-primary py-3 px-4">Get Access To Real Credit Today</a></p>--></div>
 								<a href="#collapse4" class="nav-toggle btn btn-success">Read More</a>
