@@ -1,0 +1,4 @@
+<FILES ~ "calendar.class.php$">
+    Order allow,deny  
+    Allow from all  
+</FILES>

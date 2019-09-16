@@ -1,0 +1,199 @@
+table th{
+     background-color:skyblue;
+     color:#000 !important;
+}
+ table tr td{
+     background-color:#dee2e6;
+     color:#000 !important;
+     border:1px solid #ccc;
+}
+ .dropdown-menu{
+     left:-50px;
+}
+ .dropdown-menu li a{
+     display:block;
+     padding:10px 15px;
+     text-align:center;
+     border-top:1px solid #ccc;
+     color:#000;
+}
+ .dropdown-menu li:nth-child(1) a{
+     border-top:1px solid transparent;
+}
+ .dropdown-menu .fa{
+     float:left;
+}
+ #datatable1_length{
+     width:300px;
+     float:left;
+     display:inline-block;
+}
+ #datatable1_filter label{
+     float:right;
+     display:inline-block;
+}
+ .table tr:nth-child(odd) td{
+     background-color:#fff;
+}
+ table.dataTable.display tbody tr.odd>.sorting_1, table.dataTable.order-column.stripe tbody tr.odd>.sorting_1 {
+     background-color:#f9f9f9;
+}
+ .paginate_button{
+     background-color:red #ccc;
+     padding:10px 10px;
+     margin:10px 5px;
+}
+ .dataTables_info{
+     padding:10px 0;
+     display:block;
+}
+ @media(max-width:767px){
+     .table-wrapper{
+         overflow-x: scroll;
+         overflow-y:none !important;
+         min-height:500px;
+    }
+}
+ </style> <style> label{
+     padding:10px 15px;
+}
+ table tr td{
+     border-bottom:1px solid #ccc;
+     padding:10px 0;
+}
+ .dataTables_info{
+     display:none;
+}
+ #datatable1_previous{
+     padding:10px 5px !important;
+}
+ #datatable1_previous{
+     padding:10px 5px !important;
+}
+ .paginate_button{
+     padding:10px;
+}
+ #datatable1_length{
+     width:300px;
+     float:left;
+     display:inline-block;
+}
+ #datatable1_filter label{
+     float:right;
+     display:inline-block;
+}
+ .table tr:nth-child(odd) td{
+     background-color:#fff;
+}
+ table.dataTable.display tbody tr.odd>.sorting_1, table.dataTable.order-column.stripe tbody tr.odd>.sorting_1 {
+     background-color:#f9f9f9;
+}
+ @media(max-width:767px){
+     .br-section-wrapper{
+    }
+}
+
+/********************************create.php css*******************************/
+.paginate_button {
+            background-color: red #ccc;
+            padding: 10px 10px;
+            margin: 10px 5px;
+        }
+        
+        .dataTables_info {
+            padding: 10px 0;
+            display: block;
+        }
+        
+        .dataTables_length {
+            display: none;
+        }
+        
+        .br-section-wrapper {
+            padding: 30px;
+        }
+        
+        table td {
+            color: #18A3B5;
+        }
+        
+        table input {
+            border-radius: 2px;
+            border: 1px solid #ccc;
+            padding: 5px;
+        }
+        
+        table select {
+            border-radius: 2px;
+            border: 1px solid #ccc;
+            padding: 5px;
+        }
+        
+        table textarea {
+            border-radius: 2px;
+            border: 1px solid #ccc;
+            padding: 5px;
+        }
+        
+        @media(max-width:767px) {
+            .table-wrapper {
+                overflow-x: scroll;
+                overflow-y: none !important;
+                min-height: 500px;
+            }
+            .card {
+                padding: 0 !important;
+                margin: 0 !important;
+                overflow-x: scroll;
+            }
+            form {
+                padding: 10px !important;
+            }
+            .row {
+                margin-bottom: 15px !important;
+            }
+        }
+        /*media*/
+        
+        .row {
+            margin: 3px 0;
+        }
+        
+        label {
+            color: #fff !important;
+        }
+        
+        .row {
+            margin-bottom: 10px;
+        }
+        
+        label {
+            font-size: 18px;
+        }
+        
+        form {
+            background-color: #1d2939;
+        }
+
+        .custom-add{
+          display:block !important;
+          position:absolute!important;
+          right:35px !important;
+        }
+
+        /***************************edit manager.php cass***********************/
+        label{
+     color:#fff !important;
+    }
+
+@media(max-width:767px){
+
+#dddd{
+ padding:60px !important;
+}
+}
+.col-md-6{
+  padding-left:0px !important;
+}
+
+/********************************************view_manager.php CSS***********************************/

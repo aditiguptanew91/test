@@ -1,0 +1,391 @@
+.paginate_button{
+
+               background-color:red #ccc;
+               padding:10px 10px;
+               margin:10px 5px;
+        }
+
+.dataTables_info{
+                     
+                     padding:10px 0;
+                     display:block;
+                }
+.dataTables_length{
+              
+                    display:none;
+
+                  }
+.br-section-wrapper{
+
+                   padding:30px;
+
+                  }
+
+  .c{
+
+    padding-top:15px;
+  }
+
+.form{
+
+  padding:30px; 
+  border:1px solid #ccc; 
+  border-radius:5px; 
+  box-shadow: 5px 5px 20px #ccc;
+}
+
+.Box1{
+  padding:30px 0;
+  border-radius:5px;
+}
+
+.heading{
+  text-align:center; color:#fff; margin:20px 0;
+}
+
+label{
+
+
+  color:#000;
+ margin:10px 0px; 
+}
+table td{
+
+color:#18A3B5;
+
+}
+
+
+table input{
+
+  border-radius:2px;
+  border:1px solid #ccc;
+  padding:5px;
+
+
+
+}
+table select{
+
+border-radius:2px;
+border:1px solid #ccc;
+padding:5px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+table textarea{
+
+
+
+
+
+
+
+  border-radius:2px;
+
+
+
+  border:1px solid #ccc;
+
+
+
+  padding:5px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:767px){
+
+
+
+
+
+
+
+  .table-wrapper{
+
+
+
+  overflow-x: scroll;
+
+
+
+  overflow-y:none !important;
+
+
+
+  min-height:500px;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+.card{
+
+
+
+
+
+
+
+  padding:0 !important;
+
+
+
+  margin:0 !important;
+
+
+
+  overflow-x: scroll;
+
+
+
+}
+
+
+
+
+
+
+
+form{
+
+
+
+
+
+
+
+  padding:10px !important;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+.row{
+
+
+
+
+
+
+
+  margin-bottom:15px !important;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*media*/
+
+
+
+
+
+
+
+.row{
+
+
+
+
+
+
+
+  margin:3px 0;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+label{
+
+
+
+
+
+
+
+  color:#fff !important;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+.row{
+
+
+
+
+
+
+
+  margin-bottom:10px;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+label{
+
+
+
+
+
+
+
+  font-size:18px;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+form{
+
+
+
+
+
+
+
+  background-color:#1d2939;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
